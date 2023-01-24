@@ -23,7 +23,7 @@ Runs the app in the development mode. Open [http://localhost:3000](http://localh
 The page will reload when you make changes. You may also see any lint errors in the console.
 
 ## Initial View 
-![Dashboard](src/assets/initial.png)of Application
+![Dashboard](src/assets/initial.png)
 
 ## list of meal 
 ![meal list](src/assets/2ndView.png)
